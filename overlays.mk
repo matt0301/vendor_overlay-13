@@ -57,6 +57,7 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay \
+    FontHarmonySansOverlay \
     FontTinkerbellOverlay
 
 # Icon shapes
