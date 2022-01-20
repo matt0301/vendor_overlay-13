@@ -56,7 +56,8 @@ PRODUCT_PACKAGES += \
     FontRosemarySourceOverlay \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
-    FontSurferSourceOverlay
+    FontSurferSourceOverlay \
+    FontTinkerbellOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \
