@@ -102,7 +102,8 @@ PRODUCT_PACKAGES += \
     WavyWiFiOverlay \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
-    BarsWiFiOverlay
+    BarsWiFiOverlay \
+    WeedWiFiOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
