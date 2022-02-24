@@ -106,7 +106,7 @@ PRODUCT_PACKAGES += \
     WeedWiFiOverlay \
     DoraWiFiOverlay
 
-# Themes
+# Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
     NavbarOnePlusOverlay \
@@ -117,4 +117,5 @@ PRODUCT_PACKAGES += \
     NavbarNexusOverlay \
     NavbarOldOverlay \
     NavbarSammyOverlay \
-    NavbarKronicOverlay
+    NavbarKronicOverlay \
+    NavbarDoraOverlay
