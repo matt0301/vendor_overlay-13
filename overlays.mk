@@ -103,7 +103,8 @@ PRODUCT_PACKAGES += \
     RoundWiFiOverlay \
     InsideWiFiOverlay \
     BarsWiFiOverlay \
-    WeedWiFiOverlay
+    WeedWiFiOverlay \
+    DoraWiFiOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
