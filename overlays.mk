@@ -104,7 +104,29 @@ PRODUCT_PACKAGES += \
     InsideWiFiOverlay \
     BarsWiFiOverlay \
     WeedWiFiOverlay \
-    DoraWiFiOverlay
+    DoraWiFiOverlay \
+    BarsWiFiOverlay \
+    AquariumSignalOverlay \
+    ButterflySignalOverlay \
+    DaunSignalOverlay \
+    DecSignalOverlay \
+    DeepSignalOverlay \
+    EqualSignalOverlay \
+    FanSignalOverlay \
+    HuaweiSignalOverlay \
+    RelSignalOverlay \
+    ScrollSignalOverlay \
+    SeaSignalOverlay \
+    StackSignalOverlay \
+    WannuiSignalOverlay \
+    WindowsSignalOverlay \
+    WingSignalOverlay \
+    CircleSignalOverlay \
+    IosSignalOverlay \
+    MiniSignalOverlay \
+    OdinSignalOverlay \
+    PillsSignalOverlay \
+    RomanSignalOverlay
 
 # Navbar
 PRODUCT_PACKAGES += \
