@@ -76,7 +76,8 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
-    IconShapeRoundedHexagonOverlay
+    IconShapeRoundedHexagonOverlay \
+    RohieIconMeowOverlay
 
 # Themes
 PRODUCT_PACKAGES += \
