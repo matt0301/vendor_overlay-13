@@ -604,4 +604,12 @@
   </family>
   <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
 
+  <!-- NothingDot -->
+  <family customizationType="new-named-family" name="nothingdot">
+      <font weight="400" style="normal">ndot.ttf</font>
+      <font weight="700" style="normal">ndot57.ttf</font>
+  </family>
+  <alias name="nothingdot-semi-bold" to="nothingdot" weight="600" />
+  <alias name="nothingdot-bold" to="nothingdot" weight="700" />
+
 </fonts-modification>

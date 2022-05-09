@@ -51,6 +51,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontLGSmartGothicSourceOverlay \
     FontMontserratSourceOverlay \
+    FontNothiingDotOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateSource \
     FontRosemarySourceOverlay \
