@@ -131,15 +131,15 @@ PRODUCT_PACKAGES += \
     RomanSignalOverlay
 
 # Navbar
-PRODUCT_PACKAGES += \
-    NavbarAsusOverlay \
-    NavbarOnePlusOverlay \
-    NavbarOneUiOverlay \
-    NavbarTecnoCamonOverlay \
-    NavbarAndroidOverlay \
-    NavbarMotoOverlay \
-    NavbarNexusOverlay \
-    NavbarOldOverlay \
-    NavbarSammyOverlay \
-    NavbarKronicOverlay \
-    NavbarDoraOverlay
+#PRODUCT_PACKAGES += \
+#    NavbarAsusOverlay \
+#    NavbarOnePlusOverlay \
+#    NavbarOneUiOverlay \
+#    NavbarTecnoCamonOverlay \
+#    NavbarAndroidOverlay \
+#    NavbarMotoOverlay \
+#    NavbarNexusOverlay \
+#    NavbarOldOverlay \
+#    NavbarSammyOverlay \
+#    NavbarKronicOverlay \
+#    NavbarDoraOverlay
