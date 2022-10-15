@@ -59,7 +59,8 @@ PRODUCT_PACKAGES += \
     FontSonySketchSourceOverlay \
     FontSurferSourceOverlay \
     FontHarmonySansOverlay \
-    FontTinkerbellOverlay
+    FontTinkerbellOverlay \
+    FontUrbanistOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \
